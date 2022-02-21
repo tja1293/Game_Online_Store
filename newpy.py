@@ -6,3 +6,4 @@ while loop < 10:
   loop += 1
 a  = input("Enter a number")
 print("Yoo big man ")
+return 0;
